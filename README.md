@@ -1,4 +1,4 @@
-# Igreja Amor Doar
+# Solidario +
 
 **Plataforma web para arrecadação de doações destinada a instituições religiosas.**  
 Este projeto foi desenvolvido como parte de um trabalho acadêmico e tem como objetivo conectar doadores a instituições religiosas de forma segura, transparente e fácil de usar.
